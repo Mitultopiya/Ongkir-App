@@ -1,18 +1,3 @@
-### Ongkir App (Raja Ongkir)
-
-**Berikut** ini adalah mini project aplikasi untuk menghitung biaya ongkos pengiriman barang antar kota atau antar provinsi, menggunakan **Raja Ongkir API** include **Ultimate Authentication V2** [disini](https://ongkirinaja.herokuapp.com/signin), menggunakan **MERN** + **Redux and Redux Thunk** beserta kawan - kawannya, untuk **Ultimate Authentication V1** [disini](https://github.com/restuwahyu13/mern-real-auth)
-
-#### Cara Menjalankan Aplikasi
-
-**Install module** terlebih dahulu sesuai dengan apa yang tertera di `package.json`, kemudian buka **terminal** dan silahkan ketikan `npm install` atau `yarn add`, setelah selesai menginstall **module** tersebut lalu silahkan jalankan dengan cara mengetikan `npm run server:start` atau `yarn server:start` untuk **server** dan megetikan `npm run client:start` atau `yarn client:start` untuk **client** pada **terminal**.
-
-#### Cara Deploy Aplikasi
-+ install **Heroku CLI** terlebih dahulu [disini](https://devcenter.heroku.com/articles/heroku-cli)
-+ buka terminal ketikan `heroku login` pada **terminal**
-+ buat nama domain anda sendiri dengan mengetikan `heroku create` di ikuti dengan nama yang anda inginkan
-+ ketikan `git Init` -> `git add .` -> `git commit -m` pada **terminal**
-+ kemudian tes aplikasi via local server **Heroku** dengan mengetikan `heroku local` jika sudah berjalan dengan lancar, tekan **CTRl + C** dan kemudian ketikan `git push heroku master`
-
 #### Front-End Endpoit Routes:
 
 | Nama | Route Name |
